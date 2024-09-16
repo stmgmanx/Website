@@ -9,6 +9,7 @@
 }
 body{
     background: url("../images/cyberpunk.jpg");
+    backgroung-color: Pink;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
