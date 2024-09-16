@@ -8,8 +8,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    /*background: url("../images/cyberpunk.jpg");*/
-    backgroung-color: Pink;
+    background: url("https://stmgmanx.github.io/cyberpunk.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
